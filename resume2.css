@@ -1,0 +1,46 @@
+.logo{
+
+    height: 150px;width: 1200px;
+}
+.title{
+
+    color: white;font-size: 50px;text-align: left;background-color: black;
+}
+.heading{
+
+    color: white;font-size: 20px;position: absolute;text-align: left;background-color:navy;
+}
+*{
+
+    padding: 5px;
+    margin: 0%auto;
+    
+}
+.yes1,p,h2{ color: rgb(0, 0, 0);background-color: wheat; text-align: left;
+
+
+}
+.profile{
+
+
+    color: white;padding: 10px;text-align: left;
+}
+.yes2,h3,{
+
+    color: wheat;align-self: start;
+}
+.yes4{
+    color: black;background-color: wheat;
+}
+.display{
+
+
+    display: flex;
+    margin: 0%auto;
+    text-align: justify;
+}
+.contanor div{
+
+    display: flex;
+    text-align: right;
+}
